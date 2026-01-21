@@ -52,16 +52,6 @@ By exploring this repository, you will get **3 major bonuses**:
 - Easy to run and modify
 
 ---
-
-
-
-## 📁 Repository Structure
-├── dataset/
-│ ├── raw_data.csv
-│ └── cleaned_data.csv
-├── Breast_Cancer_Detection.ipynb
-├── README.md
-
 ## 🔧 Technologies Used
 - Python  
 - NumPy  
@@ -77,7 +67,11 @@ By exploring this repository, you will get **3 major bonuses**:
 - Support Vector Machine (SVM)  
 - K-Nearest Neighbors (KNN)  
 - Decision Tree  
-- Random Forest  
+- Random Forest
+
+ ## 📁 Repository Structure
+
+
 
 ---
 
