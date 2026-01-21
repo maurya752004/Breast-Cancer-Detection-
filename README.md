@@ -70,11 +70,11 @@ By exploring this repository, you will get **3 major bonuses**:
 - Random Forest
 
  ## 📁 Repository Structure
--├── dataset/
--│ ├── raw_data.csv
--│ └── cleaned_data.csv
--├── Breast_Cancer_Detection.ipynb
--├── README.md
+├── dataset/
+│ ├── raw_data.csv
+│ └── cleaned_data.csv
+├── Breast_Cancer_Detection.ipynb
+├── README.md
 
 
 
